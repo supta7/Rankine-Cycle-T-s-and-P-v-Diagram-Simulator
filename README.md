@@ -1,1 +1,1 @@
-# Rankine-Cycle-P-v-and-T-S-Diagram-Simulator
+# Rankine-Cycle-P-v-and-T-s-Diagram-Simulator
